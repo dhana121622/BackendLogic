@@ -6978,11 +6978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\BackendLogic\\BackendLogic\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\BackendLogic\\BackendLogic\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\dhana\\.nuget\\packages\\",
-      "outputPath": "D:\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "D:\\BackendLogic\\BackendLogic\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dhana\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\27-12-24\\WebAPI\\",
+  "WorkspaceRootPath": "D:\\BackendLogic\\BackendLogic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06C2B147-1D66-4E52-80E0-A6F2786EDD4B}|WebAPI\\WebAPI.csproj|d:\\27-12-24\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06C2B147-1D66-4E52-80E0-A6F2786EDD4B}|WebAPI\\WebAPI.csproj|d:\\backendlogic\\backendlogic\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06C2B147-1D66-4E52-80E0-A6F2786EDD4B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2B147-1D66-4E52-80E0-A6F2786EDD4B}|WebAPI\\WebAPI.csproj|d:\\backendlogic\\backendlogic\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C2B147-1D66-4E52-80E0-A6F2786EDD4B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\BackendLogic\\BackendLogic\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI\\Dockerfile",
+              "ToolTip": "D:\\BackendLogic\\BackendLogic\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-31T03:34:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\27-12-24\\WebAPI\\WebAPI\\Program.cs",
+              "DocumentMoniker": "D:\\BackendLogic\\BackendLogic\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "D:\\27-12-24\\WebAPI\\WebAPI\\Program.cs",
+              "ToolTip": "D:\\BackendLogic\\BackendLogic\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAMwCsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
