@@ -1,0 +1,494 @@
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\System.Web.Http.SelfHost.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\libman.json
+C:\Users\Morning Shift\source\repos\WebAPI\WebAPI\bin\Debug\net8.0\lib\microsoft\signalr\package.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\appsettings.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\libman.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\lib\microsoft\signalr\package.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.exe
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Humanizer.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Web.Http.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Web.Http.SelfHost.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Build.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Common.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\27-12-24\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.RazorAssemblyInfo.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.RazorAssemblyInfo.cs
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.dll
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+D:\27-12-24\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
